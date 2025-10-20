@@ -67,7 +67,7 @@
 <p>
   <h3 align="center">Support:</h3>
   <p>
-    <a href="[https://www.buymeacoffee.com/josuerv99](https://albcz.github.io/Porta/)">
+    <a href="[https://www.buymeacoffee.com/josuerv99](https://albcz.github.io/Porta/](https://albcz.github.io/Porta/)">
       
     </a>
   </p>
